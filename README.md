@@ -1,4 +1,4 @@
-# 6250Spring2020Team20Project
+# 2020Team20Project
 
 ## Dependencies
 
